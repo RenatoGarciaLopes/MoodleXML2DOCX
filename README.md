@@ -12,7 +12,7 @@
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/RenatoGarciaLopes/MoodleXML2DOCX.git
-   cd moodle-xml-to-docx
+   cd MoodleXML2DOCX
    ```  
 2. Instale as dependências:  
    ```bash
