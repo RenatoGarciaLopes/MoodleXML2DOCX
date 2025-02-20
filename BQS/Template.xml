@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Q1]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[</p><p>This is an example of question 1]]></text>
+    </questiontext>
+    <generalfeedback format="html"/>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">Sua resposta está correta.</correctfeedback>
+    <partiallycorrectfeedback format="html">Sua resposta está parcialmente correta.</partiallycorrectfeedback>
+    <incorrectfeedback format="html">Sua resposta está incorreta.</incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[This is an example of the correct alternative to question 1 (in bold)]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[This is an example of the incorrect alternative to question 1]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[This is an example of the incorrect alternative to question 1]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[This is an example of the incorrect alternative to question 1]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[This is an example of the incorrect alternative to question 1]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Q2]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[</p><p>This is an example of question 2]]></text>
+    </questiontext>
+    <generalfeedback format="html"/>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">Sua resposta está correta.</correctfeedback>
+    <partiallycorrectfeedback format="html">Sua resposta está parcialmente correta.</partiallycorrectfeedback>
+    <incorrectfeedback format="html">Sua resposta está incorreta.</incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[This is an example of the correct alternative to question 2 (in bold)]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[This is an example of the incorrect alternative to question 2]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[This is an example of the incorrect alternative to question 2]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[This is an example of the incorrect alternative to question 2]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[This is an example of the incorrect alternative to question 2]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+</quiz>
