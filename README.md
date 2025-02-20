@@ -1,6 +1,6 @@
 # 📄 Moodle XML to DOCX Converter
 
-**Descrição:** Ferramenta para converter arquivos **XML** do **Moodle** em documentos **DOCX** formatados, preservando as questões e alternativas de múltipla escolha.
+**Descrição:** Ferramenta para converter arquivos de questões **XML** do **Moodle** em documentos **DOCX** formatados, preservando as questões e alternativas de múltipla escolha.
 
 ## 🚀 Funcionalidades  
 ✅ Converte arquivos `.xml` exportados do Moodle para `.docx`  
